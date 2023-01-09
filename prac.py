@@ -16,3 +16,5 @@ print(statement.capitalize())
 print(statement.split())
 
 print(statement.swapcase())
+
+print("OMOLEWA")
